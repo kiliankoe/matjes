@@ -1,6 +1,4 @@
-# 🤖 matjes
-
-[![Travis](https://img.shields.io/travis/kiliankoe/matjes.svg?style=flat-square)](https://travis-ci.org/kiliankoe/matjes)
+# 🐟 matjes
 
 matjes is a chat bot (currently) built on top of the fantastic [hubot](https://hubot.github.com) framework. He's a fork of the beloved [Matthias](https://github.com/fsr/matthias), albeit a bit slimmed down and not connected to Slack but to Telegram. You can chat with him [@matjes_bot](https://t.me/matjes_bot).
 
